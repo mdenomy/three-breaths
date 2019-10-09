@@ -7,7 +7,6 @@ type: post
 url: /2014/01/20/programmatically-clearing-the-facebook-share-image-cache/
 tags:
 - Social Media
-tags:
 - Facebook
 - OpenGraph
 ---
