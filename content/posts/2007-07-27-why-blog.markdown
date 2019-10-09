@@ -1,0 +1,16 @@
+---
+author: mdenomy
+date: 2007-07-27 01:05:12+00:00
+draft: false
+title: Why blog?
+type: post
+url: /2007/07/27/why-blog/
+tags:
+- Blogging
+---
+
+A developer on my team once asked an excellent question: "Are you always looking for better ways to do things?"  Absolutely.   That's what I hope this blog is all about.
+
+I used to know everything but that was a long time ago.  I've seen a lot of changes in the industry over the years in terms of tools and methodologies.
+
+I care a lot about writing high quality software, on time, with the right feature set, and I hope be able to use this blog as a forum to capture things that went right, things that went wrong, and exchange ideas with other developers.

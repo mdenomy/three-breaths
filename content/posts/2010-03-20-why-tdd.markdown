@@ -1,0 +1,57 @@
+---
+author: mdenomy
+date: 2010-03-20 14:16:22+00:00
+draft: false
+title: Why TDD?
+type: post
+url: /2010/03/20/why-tdd/
+tags:
+- Agile
+- mocks
+- TDD
+- testing
+---
+
+"When do you write your tests?"
+
+This is a question that I have been putting to developers lately and the answers I get back sometimes surprise me.  I still hear a lot of people say they are writing their tests after the majority of the code is written.  These are people who, by and large, agree in the value of unit testing.  Unfortunately by deferring testing to after the code is written I think they are missing out on an opportunity to make significant improvements in how they write software.
+
+Remember, it is test _driven _development.  The tests play an important role in driving the interface definition, underlying design, and structure of the code.
+
+**TDD Helps Define the Interface**
+
+What is your code going to look like to clients?  What methods are going to be provided, what are the arguments, what are the failure modes and behaviors? These are all questions that will shake out of a test driven development process.
+
+When I am doing TDD, I typically go through a series of [test, code, and refactor](http://jamesshore.com/Blog/Red-Green-Refactor.html) cycles that take the component under test through a progression of increasing functionality/behavior.
+
+
+
+	  1. Simply create the component under test
+	  2. Implement a simple, sunny-day operation
+	  3. Add some error conditions
+	  4. Layer in some more functionality
+	  5. And so on...
+
+As I go along this progression, my understanding of the behavior of the component and its interface is evolving.  And since I am driving the interface definition from my tests, I am thinking about how the interface looks from the outside.  That is an important distinction.  Without that view from the outside it is easy to put a lot of effort into the internals of the design, without having a good understanding of how it is going to get used.  When I am writing the tests I have to put a lot of thought into how a component is configured and called, as well as how it will respond to error cases.
+
+After each of these steps, I am also checking in my code.  There are several reasons for this.  The obvious one is I am building up a revision history and keeping the scope of my changes small.  That way if I paint myself into a corner or start to detect a [code smell](http://www.codinghorror.com/blog/2006/05/code-smells.html) I can revert back to a known good state.  I am also getting my tests to run in the automated build.  That answers the question of whether there is an unknown dependency on a library or configuration that exists on my development system but not on the build server.  It may also point to an expensive test setup or teardown condition that causes the automated tests to take a long time to execute.  Finding that out early makes diagnosing and fixing it a lot easier.
+
+**TDD Encourages Good Design**
+
+You can have good design without TDD, and you can write lousy code using TDD, but I find one of the strengths in TDD is that it encourages good design and good design practices.
+
+The iterative nature of TDD,  sometimes referred to as [red-green-refactor](http://jamesshore.com/Blog/Red-Green-Refactor.html) (or test-code-refactor), encourages continuous design.  One of the knocks I hear about Agile and TDD by people who really don't understand it is that there is no design cycle.  In reality you are constantly thinking about and improving the design, just in incremental steps and in response to adding more functionality (via new tests).  As you continue to add in more functionality, opportunities to refactor for modularity, re-use, decomposition, and performance will present themselves naturally.  And since you have a test suite already in place you can refactor and get an indication that the component is still behaving as expected.
+
+Another benefit to TDD is that it encourages loose coupling of components.  When you are unit testing, you want to keep the amount of code that you are testing to a minimum.  If the code under test has dependencies on other components,how do you restrict your testing efforts to the code under test and not all the pieces of code that it talks to?  How do you decide what dependencies should be covered in the test suite and which ones should be treated more abstractly.  There aren't any hard and fast rules here.  I have seen code that has so many injected dependencies that it is hard to figure out what exactly it does, and I have seen code that included so many other classes that it is nearly impossible to have good tests that don't break when an underlying component changes.  But by following an iterative, test driven strategy, you are forced to confront these issues early, before you have invested too much effort into what might be an unwieldy design.
+
+You may argue that you can get these types of benefits with tests developed after the code is written, and that may be true, but at that point making changes to the design is more difficult.
+
+**TDD Enables Testability**
+
+That may seem obvious, but by writing tests starting on day 1, you are forced to deal with how to put in hooks for testing right away and how to determine that your component is behaving as expected.
+
+I recently had to refactor some code that had practically useless unit tests.  The reason that the tests were of little value was because there was no easy way to see the interaction with the dependencies or evaluate the "success" of an operation.  Essentially these tests boiled down to "call this method and verify that no exceptions are thrown".  That is a an unacceptable success criteria for a "finished" piece of software.
+
+Two big issues for me with unit tests are dependencies and infrastructure.  How can I run my tests so my code is not dependent on too many other components, such that the tests become unwieldy or brittle.  I am a big fan of mocking and [dependency injection](http://en.wikipedia.org/wiki/Dependency_injection).  For C# I use [nmock2](http://sourceforge.net/projects/nmock2/) for mocking.  At some point I need to finally try out an IoC framework (Scott Hanselman has a good list of them for .NET  [here](http://www.hanselman.com/blog/ListOfNETDependencyInjectionContainersIOC.aspx)) for dependency injection, but to this point providing overloaded constructors and manually injecting dependencies has not been too painful.
+
+The infrastructure issue is another thing you want to get a handle on.  How dependent are your tests on things like the file system, do they need a database, are there any special configuration files?  Do they run quickly or require a costly setup/teardown?  These may be indicative of problems in your test design and may cause problems.  Remember that your tests can be refactored too if you detect a code smell.
