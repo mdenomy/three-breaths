@@ -9,8 +9,6 @@ tags:
 - Conferences
 - Rails
 - Ruby
-tags:
-- Brian Cardarella
 - Wicked Good Ruby
 ---
 

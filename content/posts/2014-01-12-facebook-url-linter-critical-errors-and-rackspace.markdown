@@ -7,7 +7,6 @@ type: post
 url: /2014/01/12/facebook-url-linter-critical-errors-and-rackspace/
 tags:
 - Social Media
-tags:
 - Facebook
 - OpenGraph
 - Rackspace
