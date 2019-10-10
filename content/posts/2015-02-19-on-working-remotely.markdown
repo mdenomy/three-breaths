@@ -8,7 +8,7 @@ url: /2015/02/19/on-working-remotely/
 
 I don't know if you've heard, but we've had some historic snows here in Boston, that have had a "slight" impact on public transit and just getting around in general.
 
-https://twitter.com/SaraMorrison/status/567467416842928128
+{{< tweet 567467416842928128 >}}
 
 I have always felt that being in the office is key to being effective as a software developer.  So much of what we do is about communication. How can we do that without being face-to-face with a customer or coworker?  How can we do that without being able to seamlessly share code, ideas, nuance.  Although I have worked from home from time to time due to weather or other conflicts, I always thought friends who worked primarily from home were probably stretching the truth a bit about how effective they could be working remotely.
 

@@ -53,21 +53,17 @@ I won't try to go over all the talks, though there were a few that I really like
 
 [Matt Aimonett](https://twitter.com/mattetti)i talked about "good" code and "bad" code.  I was psyched that I got a question in that got kicked around by Matt, [Sandy Metz](http://www.sandimetz.com/), and [Katrina Owen](http://kytrinyx.com/) in the round-table discussion.
 
-https://twitter.com/mdenomy/status/389036651198283776
+{{< tweet 389036651198283776 >}}
 
 I wish I had more than 140 characters to ask a fairly nuanced question about what is the right amount of testing for a Rails app.  Fortunately I got a chance to catch up with Matt just before the conference ended to explore some ideas.  I love how approachable people are in this community.
 
-
 ## Things to Consider
-
 
 There were a lot of local developers at the conference, which was really nice to see.  I know a lot of the companies and developers from helping out at [Boston Ruby](http://bostonrb.org/).  One disappointing trend I saw was people sticking with their co-workers.  Sure it gives us a common understanding that we can take back to the office, and we don't need to reach outside our comfort bubble and engage people we don't know.  But that's the best part of a conference.  Meet new people, learn what they are passionate about, share your experience.
 
 Along those same lines I wish there was a little bit more time between talks.  It's a balance between getting as much great content as possible but also having a chance to talk to other devs, or dare I say it, approach a speaker and say hello.  I really enjoyed talking to Matt Aimonetti, Neeraj Singh, and Mike Desjardin about their talks.  The short time between talks also made for some rushed moments when a speaker talk inevitably ran long.
 
-
 ## Finishing Where I Started
-
 
 Thank you Brian, Johnny, and Sean.  You guys kept things flowing and from where I was sitting it looked like everything went off smoothly.  I am sure there was furious activity behind the scenes, but it looked like a well oiled machine.
 
