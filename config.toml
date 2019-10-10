@@ -18,7 +18,7 @@ paginate = 10
 
 [params]
     # Blog subtitle which appears below blog title. Supports markdown.
-    subtitle = "Clean and minimal personal [blog theme for Hugo](https://github.com/vividvilla/ezhil)"
+    subtitle = "Musings on code, management, and life"
     # Content types which are included in home page recent posts list.
     mainSections = ["posts"]
     # Content types which are excludes Disqus comments.
@@ -49,15 +49,21 @@ weight = 4
 
 # Social media links which shows up on site header.
 # Uses feather icons for icons. You can [search icon names from here](https://feathericons.com/).
-#[[params.social]]
-#name = "Github"
-#icon = "github"
-#url = "https://github.com/vividvilla/ezhil"
-
 [[params.social]]
 name = "Twitter"
 icon = "twitter"
 url = "https://twitter.com/mdenomy"
+
+[[params.social]]
+name = "Github"
+icon = "github"
+url = "https://github.com/mdenomy"
+
+[[params.social]]
+name = "LinkedIn"
+icon = "linkedin"
+url = "https://www.linkedin.com/in/mdenomy/"
+
 
 # Enable tags.
 [taxonomies]
