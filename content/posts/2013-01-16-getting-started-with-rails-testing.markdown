@@ -13,17 +13,15 @@ tags:
 
 I gave a presentation at the January 2013 Boston Ruby Project Night on "Getting Started with Rails Testing".
 
-[youtube=http://www.youtube.com/watch?v=Im1lyxSZEu4]
+{{< youtube Im1lyxSZEu4 >}}
 
 This talk aims at understanding the development workflow while using TDD and the [Red-Green-Refactor](http://www.jamesshore.com/Blog/Red-Green-Refactor.html) loop.
 
 We look at the different test types that you can write in a Rails application
 
-
-
-	  * Unit tests
-	  * Controller tests
-	  * Integration tests
+* Unit tests
+* Controller tests
+* Integration tests
 
 We also look at some of the tools and frameworks that are available for testing, including [RSpec](https://www.relishapp.com/rspec), [MiniTest](https://github.com/seattlerb/minitest), [Test-Unit](http://test-unit.rubyforge.org/), [Capybara](https://github.com/jnicklas/capybara), and [FactoryGirl](https://github.com/thoughtbot/factory_girl_rails).
 

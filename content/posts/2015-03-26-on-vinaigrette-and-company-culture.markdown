@@ -21,9 +21,6 @@ Start by allowing each team or group to learn more about the other's strengths a
 
 And don't forget to pay attention to the little things too. What is the new office environment like?
 
-
-
-
   * Is the space "vibrant" or "noisy". 
   * Are people from different teams interacting, going to lunch together? 
   * Are the "new people" getting "new equipment" or other special treatment. 

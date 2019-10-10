@@ -15,12 +15,10 @@ I held my first project retrospective this week.  It was probably overdue, but t
 
 I found Peter Steven's [blog](http://agilesoftwaredevelopment.com/blog/peterstev/start-trust-start-retrospective) and Boris Gloger's paper on [Heartbeat Retrospectives](http://www.glogerconsulting.de/downloads/Gloger-heartbeat-retros-V11.pdf) helpful in setting the format.   I decided to cover the following topics in our retrospective
 
-
-
-	  * What did we do well?
-	  * What can we improve on?
-	  * Who has ownership of the things that can be improved?
-	  * What are the priorities?
+* What did we do well?
+* What can we improve on?
+* Who has ownership of the things that can be improved?
+* What are the priorities?
 
 We used sticky notes and a white board.  You need to be succinct to state your point on a sticky note.  Plus once they go up on the whiteboard they tend to lose ownership and they become the team's ideas.  There were only a few times when we had to ask who wrote something and that was only to clarify an idea.  The group ownership of ideas keeps things flowing and prevents the meeting from being driven by one or two strong personalities.
 

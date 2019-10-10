@@ -25,4 +25,4 @@ Finally we talked about the challenges of adopting TDD.  Change is hard, and a 
 
 I had a great time at the Nashua Scrum Club, and want to thank everyone there for making it a fun (and hopefully informative) evening.  I look forward to a return visit soon.
 
-[slideshare id=6577134&doc=nashuascrumclubtdd2011-01-13-110115063803-phpapp02]
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/zHGNJP3GEX34pe" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/mdenomy/introduction-to-test-driven-development" title="Introduction to Test Driven Development" target="_blank">Introduction to Test Driven Development</a> </strong> from <strong><a href="https://www.slideshare.net/mdenomy" target="_blank">Michael Denomy</a></strong> </div>

@@ -18,4 +18,4 @@ My hope was that this talk would help people starting out in the Rails world, or
 
 Along the way, I also talk about ways to establish yourself in a new development community and how to build up your network beyond just adding people to your LinkedIn network
 
-[youtube=http://www.youtube.com/watch?v=YXSC6RsAHgY]
+{{< youtube YXSC6RsAHgY >}}

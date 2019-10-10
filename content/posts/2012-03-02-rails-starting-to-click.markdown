@@ -26,23 +26,23 @@ From a pure TDD approach, [doing the simplest thing that work](http://c2.com/xp/
 
 **app/views/users/edit.html.erb**
 
-[sourcecode language="ruby" gutter="false"]
+``` ruby
 <h1>Edit User</h1>
 <a href="http://gravatar.com/emails">change</a>
-[/sourcecode]
+```
 
 
 **app/controllers/user_controllers.rb**
 
 
-[sourcecode language="ruby" gutter="false"]
+``` ruby
  class UsersController < ApplicationController
     ...
     def edit
       @title = "Edit user"
     end
     ...
-[/sourcecode]
+```
 
 Obviously this is not enough to implement the final solution, but it _**is enough**_ to get the tests to pass, and in my experience additional functionality should be driven by the tests.  From the perspective of a Rails noob I felt that these were valuable tests because they proved out the plumbing and set the table for more complex tests/functionality.  Now it was time to look at the tutorial's [solution](http://ruby.railstutorial.org/chapters/updating-showing-and-deleting-users#code:initial_edit_action).
 
@@ -52,7 +52,7 @@ So I added the tests for the fields, and now was happily back to red.  Yes Virg
 
 **spec/controllers/user_controllers_spec.rb**
 
-[sourcecode language="ruby" gutter="false"]
+``` ruby
    it "should have a name field" do
       get :edit, :id => @user
       response.should have_selector("input[name='user[name]'][type='text']")
@@ -72,13 +72,13 @@ So I added the tests for the fields, and now was happily back to red.  Yes Virg
       get :edit, :id => @user
       response.should have_selector("input[name='user[password_confirmation]'][type='password']")
     end
-[/sourcecode]
+```
 
 Getting to green was fairly trivial, and I was able to cut-and-paste a lot of the code from "new" and make a few minor mods.
 
 **app/views/users/edit.html.erb**
 
-[sourcecode language="ruby" gutter="false"]
+``` ruby
 <h1>Edit User</h1>
 <%= form_for(@user) do |f| %>
   <%= render 'shared/error_messages', :object => f.object %>
@@ -105,7 +105,7 @@ Getting to green was fairly trivial, and I was able to cut-and-paste a lot of th
 <div>
   <a href="http://gravatar.com/emails">change</a>
 </div>
-[/sourcecode]
+```
 
 My tests were passing but now I had quite a bit of duplicated code in my app/views/users/new.html.erb and app/views/users/edit.html.erb files.  It was time for the 3rd piece of the red-green-refactor cycle.
 
@@ -113,7 +113,7 @@ Thinking back to earlier chapters, I thought what I would like to do is to imple
 
 **app/views/shared/_user_fields.html.erb**
 
-[sourcecode language="ruby" gutter="false"]
+``` ruby
 <div class="field">
   <%= f.label :name %><br />
   <%= f.text_field :name %>
@@ -130,12 +130,12 @@ Thinking back to earlier chapters, I thought what I would like to do is to imple
  <%= f.label :password_confirmation, "Confirmation" %><br />
  <%= f.password_field :password_confirmation %>
 </div>
-[/sourcecode]
-
+```
 And the edit.html.erb was a lot cleaner now and my tests were still passing.
 **app/views/user/edit.html.erb**
 
-[sourcecode language="ruby" gutter="false"]
+
+``` ruby
 <h1>Edit User</h1>
 
 <%= form_for(@user) do |f| %>
@@ -150,12 +150,13 @@ And the edit.html.erb was a lot cleaner now and my tests were still passing.
  <a href="http://gravatar.com/emails">change</a>
 </div>
 <pre>
-[/sourcecode]
+```
 
 Making the necessary changes to new.html.erb completed the process.
+
 **app/views/user/new.html.erb**
 
-[sourcecode language="ruby" gutter="false"]
+``` ruby
 <h1>Sign up</h1>
 <%= form_for(@user) do |f| %>
   <%= render 'shared/error_messages' %>
@@ -164,7 +165,7 @@ Making the necessary changes to new.html.erb completed the process.
     <%= f.submit "Sign up" %>
   </div>
 <% end %>
-[/sourcecode]
+```
 
 Run the tests one more time...and still green.
 

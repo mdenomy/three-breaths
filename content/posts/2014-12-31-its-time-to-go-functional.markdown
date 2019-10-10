@@ -11,7 +11,7 @@ tags:
 - Learning
 ---
 
-It was 3 years ago that I embarked on a learning adventure with Ruby and Rails, my [Season of Ruby](https://mdenomy.wordpress.com/category/season-of-ruby/), that would change my career in ways that I could not imagine at the time. The [Pragmatic Programmer](https://pragprog.com/the-pragmatic-programmer) recommends learning one new language a year, and though I've added a few languages and frameworks since then, Javascript and AngularJS to name a few, I've never learned a purely functional language.
+It was 3 years ago that I embarked on a learning adventure with Ruby and Rails, my [Season of Ruby](/tags/season-of-ruby/), that would change my career in ways that I could not imagine at the time. The [Pragmatic Programmer](https://pragprog.com/the-pragmatic-programmer) recommends learning one new language a year, and though I've added a few languages and frameworks since then, Javascript and AngularJS to name a few, I've never learned a purely functional language.
 
 My experience in programming to this point has been [procedural](http://en.wikipedia.org/wiki/Procedural_programming) (way back in C and assembly) and object-oriented (C++, C#, Java, Ruby).  I have **no** experience in functional programming, and I wonder if that leaves a gap in the tools I have in approaching a problem.  I have no idea where this will lead, or how this might change me as a developer, but that's fine.  It worked out ok last time with Ruby.
 
