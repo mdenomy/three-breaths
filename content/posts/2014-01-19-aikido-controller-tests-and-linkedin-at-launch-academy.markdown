@@ -3,7 +3,6 @@ author: mdenomy
 date: 2014-01-19 14:31:50+00:00
 draft: false
 title: Aikido, Controller Tests, and LinkedIn at Launch Academy
-type: post
 url: /2014/01/19/aikido-controller-tests-and-linkedin-at-launch-academy/
 tags:
 - Learning

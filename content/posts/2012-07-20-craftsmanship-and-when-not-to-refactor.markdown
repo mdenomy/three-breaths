@@ -3,7 +3,6 @@ author: mdenomy
 date: 2012-07-20 12:29:23+00:00
 draft: false
 title: Craftsmanship and When Not To Refactor
-type: post
 url: /2012/07/20/craftsmanship-and-when-not-to-refactor/
 tags:
 - Software Craftsmanship

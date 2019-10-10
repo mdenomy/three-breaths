@@ -3,7 +3,6 @@ author: mdenomy
 date: 2011-08-23 16:38:13+00:00
 draft: false
 title: It's Only...."Mostly Done"
-type: post
 url: /2011/08/23/its-only-mostly-done/
 tags:
 - Agile

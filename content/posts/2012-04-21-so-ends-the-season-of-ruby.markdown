@@ -3,7 +3,6 @@ author: mdenomy
 date: 2012-04-21 03:25:28+00:00
 draft: false
 title: So Ends The Season of Ruby
-type: post
 url: /2012/04/20/so-ends-the-season-of-ruby/
 tags:
 - Rails

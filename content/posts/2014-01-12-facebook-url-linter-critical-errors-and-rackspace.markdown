@@ -3,7 +3,6 @@ author: mdenomy
 date: 2014-01-12 14:24:41+00:00
 draft: false
 title: Facebook URL Linter, Critical Errors, and Rackspace
-type: post
 url: /2014/01/12/facebook-url-linter-critical-errors-and-rackspace/
 tags:
 - Social Media

@@ -3,7 +3,6 @@ author: mdenomy
 date: 2010-08-25 00:57:25+00:00
 draft: false
 title: Agile and the Lean Startup
-type: post
 url: /2010/08/24/agile-and-the-lean-startup/
 tags:
 - Agile

@@ -3,7 +3,6 @@ author: mdenomy
 date: 2012-03-19 16:45:55+00:00
 draft: false
 title: The Non-Linear Nature of Learning
-type: post
 url: /2012/03/19/the-non-linear-nature-of-learning/
 tags:
 - Learning

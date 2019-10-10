@@ -3,7 +3,6 @@ author: mdenomy
 date: 2012-03-02 13:57:00+00:00
 draft: false
 title: Season of Ruby - Things Are Starting To Click
-type: post
 url: /2012/03/02/rails-starting-to-click/
 tags:
 - Rails

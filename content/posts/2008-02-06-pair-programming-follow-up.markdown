@@ -3,7 +3,6 @@ author: mdenomy
 date: 2008-02-06 21:20:00+00:00
 draft: false
 title: Pair Programming Follow-Up
-type: post
 url: /2008/02/06/pair-programming-follow-up/
 tags:
 - Agile

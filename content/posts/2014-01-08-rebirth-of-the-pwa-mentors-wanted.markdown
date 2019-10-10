@@ -3,7 +3,6 @@ author: mdenomy
 date: 2014-01-08 17:54:19+00:00
 draft: false
 title: Rebirth of the PWA - Mentors Wanted
-type: post
 url: /2014/01/08/rebirth-of-the-pwa-mentors-wanted/
 tags:
 - Learning

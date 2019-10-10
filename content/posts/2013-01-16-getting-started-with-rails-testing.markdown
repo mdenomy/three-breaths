@@ -3,7 +3,6 @@ author: mdenomy
 date: 2013-01-16 11:18:39+00:00
 draft: false
 title: Getting Started with Rails Testing
-type: post
 url: /2013/01/16/getting-started-with-rails-testing/
 tags:
 - Rails

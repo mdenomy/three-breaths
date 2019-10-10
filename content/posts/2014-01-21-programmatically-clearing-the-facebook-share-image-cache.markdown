@@ -3,7 +3,6 @@ author: mdenomy
 date: 2014-01-21 01:29:21+00:00
 draft: false
 title: Programmatically Clearing the Facebook Share Image Cache
-type: post
 url: /2014/01/20/programmatically-clearing-the-facebook-share-image-cache/
 tags:
 - Social Media

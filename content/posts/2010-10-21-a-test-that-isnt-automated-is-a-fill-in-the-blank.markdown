@@ -3,7 +3,6 @@ author: mdenomy
 date: 2010-10-21 16:43:55+00:00
 draft: false
 title: A Test That Isn't Automated Is a (fill in the blank)
-type: post
 url: /2010/10/21/a-test-that-isnt-automated-is-a-fill-in-the-blank/
 tags:
 - MbUnit

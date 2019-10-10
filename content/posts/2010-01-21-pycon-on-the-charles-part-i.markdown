@@ -3,7 +3,6 @@ author: mdenomy
 date: 2010-01-21 16:47:25+00:00
 draft: false
 title: PyCon on the Charles - Part I
-type: post
 url: /2010/01/21/pycon-on-the-charles-part-i/
 tags:
 - mocks

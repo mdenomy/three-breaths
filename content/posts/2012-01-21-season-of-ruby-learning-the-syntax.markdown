@@ -3,7 +3,6 @@ author: mdenomy
 date: 2012-01-21 17:36:33+00:00
 draft: false
 title: Season of Ruby - Learning the Syntax
-type: post
 url: /2012/01/21/season-of-ruby-learning-the-syntax/
 tags:
 - Ruby

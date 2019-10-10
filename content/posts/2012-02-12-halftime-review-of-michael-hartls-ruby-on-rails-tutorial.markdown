@@ -3,7 +3,6 @@ author: mdenomy
 date: 2012-02-12 23:02:23+00:00
 draft: false
 title: Halftime Review of Michael Hartl's Ruby on Rails Tutorial
-type: post
 url: /2012/02/12/halftime-review-of-michael-hartls-ruby-on-rails-tutorial/
 tags:
 - Rails

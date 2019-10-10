@@ -3,7 +3,6 @@ author: mdenomy
 date: 2009-01-21 14:26:12+00:00
 draft: false
 title: Just Because You Can, Doesn't Mean You Should
-type: post
 url: /2009/01/21/just-because-you-can-doesnt-mean-you-should/
 ---
 

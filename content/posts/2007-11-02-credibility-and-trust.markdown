@@ -3,7 +3,6 @@ author: mdenomy
 date: 2007-11-02 13:39:27+00:00
 draft: false
 title: Credibility and Trust
-type: post
 url: /2007/11/02/credibility-and-trust/
 tags:
 - Continuous Integration

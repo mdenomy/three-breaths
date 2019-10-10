@@ -3,7 +3,6 @@ author: mdenomy
 date: 2010-03-20 14:16:22+00:00
 draft: false
 title: Why TDD?
-type: post
 url: /2010/03/20/why-tdd/
 tags:
 - Agile
@@ -24,13 +23,11 @@ What is your code going to look like to clients?  What methods are going to be 
 
 When I am doing TDD, I typically go through a series of [test, code, and refactor](http://jamesshore.com/Blog/Red-Green-Refactor.html) cycles that take the component under test through a progression of increasing functionality/behavior.
 
-
-
-	  1. Simply create the component under test
-	  2. Implement a simple, sunny-day operation
-	  3. Add some error conditions
-	  4. Layer in some more functionality
-	  5. And so on...
+1. Simply create the component under test
+2. Implement a simple, sunny-day operation
+3. Add some error conditions
+4. Layer in some more functionality
+5. And so on...
 
 As I go along this progression, my understanding of the behavior of the component and its interface is evolving.  And since I am driving the interface definition from my tests, I am thinking about how the interface looks from the outside.  That is an important distinction.  Without that view from the outside it is easy to put a lot of effort into the internals of the design, without having a good understanding of how it is going to get used.  When I am writing the tests I have to put a lot of thought into how a component is configured and called, as well as how it will respond to error cases.
 

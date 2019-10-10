@@ -3,7 +3,6 @@ author: mdenomy
 date: 2012-02-06 04:07:53+00:00
 draft: false
 title: Season of Ruby - Iteration 2 Retrospective
-type: post
 url: /2012/02/05/season-of-ruby-iteration-2-retrospective/
 tags:
 - Season of Ruby

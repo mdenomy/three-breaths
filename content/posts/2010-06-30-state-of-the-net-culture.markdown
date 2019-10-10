@@ -3,7 +3,6 @@ author: mdenomy
 date: 2010-06-30 21:31:43+00:00
 draft: false
 title: State of the .NET Culture
-type: post
 url: /2010/06/30/state-of-the-net-culture/
 tags:
 - .NET

@@ -3,7 +3,6 @@ author: mdenomy
 date: 2012-02-04 12:24:36+00:00
 draft: false
 title: Season of Ruby - You'll Always Remember Your First Fork
-type: post
 url: /2012/02/04/season-of-ruby-youll-always-remember-your-first-fork/
 tags:
 - Season of Ruby

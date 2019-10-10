@@ -3,7 +3,6 @@ author: mdenomy
 date: 2014-08-29 13:25:47+00:00
 draft: false
 title: Previewing emails in Rails applications with the mail_view gem
-type: post
 url: /2014/08/29/previewing-emails-in-rails-applications-with-the-mail_view-gem/
 tags:
 - Rails

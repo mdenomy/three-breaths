@@ -3,7 +3,6 @@ author: mdenomy
 date: 2012-02-01 14:44:40+00:00
 draft: false
 title: On Fundamentals, Frameworks, and Fiefdoms
-type: post
 url: /2012/02/01/on-fundamentals-frameworks-and-fiefdoms/
 tags:
 - Software Craftsmanship

@@ -3,7 +3,6 @@ author: mdenomy
 date: 2009-07-01 13:35:52+00:00
 draft: false
 title: Convincing Developers on the Value of Pair Programming
-type: post
 url: /2009/07/01/convincing-developers-on-the-value-of-pair-programming/
 tags:
 - Agile

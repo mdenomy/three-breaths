@@ -3,7 +3,6 @@ author: mdenomy
 date: 2012-06-14 13:06:22+00:00
 draft: false
 title: Stone Soup Development
-type: post
 url: /2012/06/14/stone-soup-development/
 tags:
 - Agile

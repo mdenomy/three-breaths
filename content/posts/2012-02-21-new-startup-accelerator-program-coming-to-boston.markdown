@@ -3,7 +3,6 @@ author: mdenomy
 date: 2012-02-21 12:23:56+00:00
 draft: false
 title: New Startup Accelerator Program Coming To Boston
-type: post
 url: /2012/02/21/new-startup-accelerator-program-coming-to-boston/
 tags:
 - Lean Startup

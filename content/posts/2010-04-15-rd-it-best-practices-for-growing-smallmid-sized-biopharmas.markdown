@@ -3,7 +3,6 @@ author: mdenomy
 date: 2010-04-15 15:31:54+00:00
 draft: false
 title: R&D IT Best Practices for Growing Small/Mid-Sized Biopharmas
-type: post
 url: /2010/04/15/rd-it-best-practices-for-growing-smallmid-sized-biopharmas/
 tags:
 - Cloud Computing

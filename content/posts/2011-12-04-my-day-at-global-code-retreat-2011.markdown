@@ -3,7 +3,6 @@ author: mdenomy
 date: 2011-12-04 15:11:13+00:00
 draft: false
 title: My Day at Global CodeRetreat 2011
-type: post
 url: /2011/12/04/my-day-at-global-code-retreat-2011/
 tags:
 - Software Craftsmanship

@@ -3,7 +3,6 @@ author: mdenomy
 date: 2007-07-27 13:41:47+00:00
 draft: false
 title: Technical Debt
-type: post
 url: /2007/07/27/technical-debt/
 tags:
 - Agile

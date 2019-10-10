@@ -3,7 +3,6 @@ author: mdenomy
 date: 2010-02-05 15:57:44+00:00
 draft: false
 title: The Five Whys
-type: post
 url: /2010/02/05/the-five-whys/
 tags:
 - Agile
@@ -16,4 +15,3 @@ There were a couple of posts on a practice called the Five Whys, which comes out
 I am very eager to start applying this technique.  I am fortunate enough to be working on a really great team that has the maturity to avoid turning the five whys into a blame game.  I am sure it will take some practice, but I am interested to see what comes out of it.  If anyone has used this technique and has advice or stories to share I would like to hear them.
 
 I'll let you know how it goes.
-

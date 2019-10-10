@@ -3,7 +3,6 @@ author: mdenomy
 date: 2007-11-28 14:35:54+00:00
 draft: false
 title: The Spirit of the Team Room
-type: post
 url: /2007/11/28/the-spirit-of-the-team-room/
 tags:
 - Agile

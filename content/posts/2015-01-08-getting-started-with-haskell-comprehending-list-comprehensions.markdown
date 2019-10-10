@@ -3,7 +3,6 @@ author: mdenomy
 date: 2015-01-08 03:13:39+00:00
 draft: false
 title: Getting Started with Haskell - Comprehending List Comprehensions
-type: post
 url: /2015/01/07/getting-started-with-haskell-comprehending-list-comprehensions/
 tags:
 - Haskell

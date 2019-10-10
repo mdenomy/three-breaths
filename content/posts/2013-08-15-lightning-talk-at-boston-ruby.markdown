@@ -3,7 +3,6 @@ author: mdenomy
 date: 2013-08-15 01:42:29+00:00
 draft: false
 title: Lightning Talk at Boston Ruby
-type: post
 url: /2013/08/14/lightning-talk-at-boston-ruby/
 tags:
 - RubyMotion

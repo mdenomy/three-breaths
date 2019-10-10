@@ -3,7 +3,6 @@ author: mdenomy
 date: 2008-03-27 12:46:55+00:00
 draft: false
 title: Energized Work and Personal Responsibility
-type: post
 url: /2008/03/27/energized-work-and-personal-responsibility/
 tags:
 - Agile

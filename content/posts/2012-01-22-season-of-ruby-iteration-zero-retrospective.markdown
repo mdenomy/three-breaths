@@ -3,7 +3,6 @@ author: mdenomy
 date: 2012-01-22 19:21:18+00:00
 draft: false
 title: Season of Ruby - Iteration Zero Retrospective
-type: post
 url: /2012/01/22/season-of-ruby-iteration-zero-retrospective/
 tags:
 - Ruby

@@ -3,7 +3,6 @@ author: mdenomy
 date: 2014-12-31 13:45:12+00:00
 draft: false
 title: It's Time To Go Functional
-type: post
 url: /2014/12/31/its-time-to-go-functional/
 tags:
 - Functional Programming

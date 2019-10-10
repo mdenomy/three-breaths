@@ -3,7 +3,6 @@ author: mdenomy
 date: 2011-12-23 15:39:47+00:00
 draft: false
 title: I Hate Year End Lists
-type: post
 url: /2011/12/23/i-hate-year-end-lists/
 tags:
 - Agile

@@ -3,7 +3,6 @@ author: mdenomy
 date: 2008-03-27 13:25:43+00:00
 draft: false
 title: Weekend Reading
-type: post
 url: /2008/03/27/weekend-reading/
 tags:
 - Agile

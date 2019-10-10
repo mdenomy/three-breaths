@@ -3,7 +3,6 @@ author: mdenomy
 date: 2013-06-26 10:59:23+00:00
 draft: false
 title: From RoR to RubyMotion - Developing your First iOS App
-type: post
 url: /2013/06/26/from-ror-to-rubymotion-developing-your-first-ios-app/
 tags:
 - RubyMotion

@@ -3,7 +3,6 @@ author: mdenomy
 date: 2011-09-14 12:38:18+00:00
 draft: false
 title: Vermont Code Camp
-type: post
 url: /2011/09/14/vermont-code-camp/
 tags:
 - .NET

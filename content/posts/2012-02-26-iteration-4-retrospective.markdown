@@ -3,7 +3,6 @@ author: mdenomy
 date: 2012-02-26 23:38:02+00:00
 draft: false
 title: Season of Ruby - Iteration 4 Retrospective
-type: post
 url: /2012/02/26/iteration-4-retrospective/
 tags:
 - Rails

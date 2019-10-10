@@ -3,7 +3,6 @@ author: mdenomy
 date: 2009-12-10 13:29:22+00:00
 draft: false
 title: One Good Thing
-type: post
 url: /2009/12/10/one-good-thing/
 tags:
 - Networking

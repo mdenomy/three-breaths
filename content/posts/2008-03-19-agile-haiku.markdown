@@ -3,7 +3,6 @@ author: mdenomy
 date: 2008-03-19 18:31:28+00:00
 draft: false
 title: Agile Haiku
-type: post
 url: /2008/03/19/agile-haiku/
 tags:
 - Agile

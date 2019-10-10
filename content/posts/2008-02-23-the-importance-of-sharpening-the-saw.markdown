@@ -3,7 +3,6 @@ author: mdenomy
 date: 2008-02-23 23:20:19+00:00
 draft: false
 title: The Importance of Sharpening the Saw
-type: post
 url: /2008/02/23/the-importance-of-sharpening-the-saw/
 tags:
 - Software

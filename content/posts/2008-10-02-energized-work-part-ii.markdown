@@ -3,7 +3,6 @@ author: mdenomy
 date: 2008-10-02 20:49:41+00:00
 draft: false
 title: Energized Work - Part II
-type: post
 url: /2008/10/02/energized-work-part-ii/
 tags:
 - Agile

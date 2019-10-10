@@ -3,7 +3,6 @@ author: mdenomy
 date: 2009-10-20 20:54:34+00:00
 draft: false
 title: New Team - First Retrospective
-type: post
 url: /2009/10/20/new-team-first-retrospective/
 tags:
 - Agile

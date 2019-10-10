@@ -3,7 +3,6 @@ author: mdenomy
 date: 2007-08-01 13:16:32+00:00
 draft: false
 title: Iteration Length
-type: post
 url: /2007/08/01/iteration-length/
 tags:
 - Agile

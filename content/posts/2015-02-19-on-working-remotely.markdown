@@ -3,7 +3,6 @@ author: mdenomy
 date: 2015-02-19 19:29:21+00:00
 draft: false
 title: On Working Remotely
-type: post
 url: /2015/02/19/on-working-remotely/
 ---
 

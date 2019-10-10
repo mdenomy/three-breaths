@@ -3,7 +3,6 @@ author: mdenomy
 date: 2012-01-29 14:54:53+00:00
 draft: false
 title: Season of Ruby - Iteration 1 Restrospective
-type: post
 url: /2012/01/29/season-of-ruby-iteration-1-restrospective/
 tags:
 - GitHub

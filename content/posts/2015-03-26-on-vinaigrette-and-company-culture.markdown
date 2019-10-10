@@ -3,7 +3,6 @@ author: mdenomy
 date: 2015-03-26 15:07:14+00:00
 draft: false
 title: On Vinaigrette and Company Culture
-type: post
 url: /2015/03/26/on-vinaigrette-and-company-culture/
 ---
 

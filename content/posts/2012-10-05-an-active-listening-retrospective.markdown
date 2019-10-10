@@ -3,7 +3,6 @@ author: mdenomy
 date: 2012-10-05 01:29:51+00:00
 draft: false
 title: An Active Listening Retrospective
-type: post
 url: /2012/10/04/an-active-listening-retrospective/
 tags:
 - Agile

@@ -3,7 +3,6 @@ author: mdenomy
 date: 2010-04-24 13:35:48+00:00
 draft: false
 title: Startup Lessons Learned Conference
-type: post
 url: /2010/04/24/startup-lessons-learned-conference/
 tags:
 - Agile

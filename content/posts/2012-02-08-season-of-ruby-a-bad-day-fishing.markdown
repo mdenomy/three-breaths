@@ -3,7 +3,6 @@ author: mdenomy
 date: 2012-02-08 13:35:57+00:00
 draft: false
 title: Season of Ruby - A Bad Day Of Fishing
-type: post
 url: /2012/02/08/season-of-ruby-a-bad-day-fishing/
 tags:
 - Rails

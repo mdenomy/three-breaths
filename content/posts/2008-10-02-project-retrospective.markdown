@@ -3,7 +3,6 @@ author: mdenomy
 date: 2008-10-02 21:52:12+00:00
 draft: false
 title: Project Retrospective
-type: post
 url: /2008/10/02/project-retrospective/
 tags:
 - Agile

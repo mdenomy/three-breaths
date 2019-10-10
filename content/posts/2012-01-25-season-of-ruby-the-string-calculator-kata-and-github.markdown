@@ -3,7 +3,6 @@ author: mdenomy
 date: 2012-01-25 19:30:03+00:00
 draft: false
 title: Season of Ruby - The String Calculator Kata and GitHub
-type: post
 url: /2012/01/25/season-of-ruby-the-string-calculator-kata-and-github/
 tags:
 - GitHub

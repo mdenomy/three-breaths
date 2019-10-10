@@ -3,7 +3,6 @@ author: mdenomy
 date: 2014-02-13 02:01:51+00:00
 draft: false
 title: 'Responsive Design Comparison: Neat vs Foundation'
-type: post
 url: /2014/02/12/responsive-design-comparison-neat-vs-foundation/
 tags:
 - CSS

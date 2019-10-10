@@ -3,7 +3,6 @@ author: mdenomy
 date: 2008-02-01 02:54:12+00:00
 draft: false
 title: Pair Programming
-type: post
 url: /2008/02/01/pair-programming/
 tags:
 - Agile

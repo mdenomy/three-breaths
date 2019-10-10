@@ -3,7 +3,6 @@ author: mdenomy
 date: 2014-01-11 23:15:57+00:00
 draft: false
 title: Reinventing Yourself at Boston Ruby
-type: post
 url: /2014/01/11/reinventing-yourself-at-boston-ruby/
 tags:
 - Learning

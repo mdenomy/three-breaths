@@ -3,7 +3,6 @@ author: mdenomy
 date: 2007-09-06 04:00:46+00:00
 draft: false
 title: Debugging - Art or Science?
-type: post
 url: /2007/09/06/debugging-art-or-science/
 tags:
 - Debugging
@@ -42,5 +41,4 @@ I recently worked on a camera system that was getting spurious triggers.  Electr
 Just before the test was ready to be run I wanted to verify that the log would record unexpected images, so I manually triggered some images by driving the trigger signal with a UI test application that came with the IO device.  I expected to see one image when I enabled the trigger but then I saw a second image when I turned off the trigger.  At first I though maybe I double-clicked instead of clicked so I tried it a few more times. Usually I only got the expected single image, but every once in a while I got two images.  What we thought was going to be a difficult problem to reproduce was now fairly easy to reproduce.  I got lucky on this one because the triggering issue was exacerbated by the difference in timing between an automatically triggered image (tens of milliseconds) versus the manual triggered image (hundreds of milliseconds).  But if I wasn't paying attention to the logs ([log4net](http://logging.apache.org/log4net/) and [BareTail](http://www.baremetalsoft.com/baretail/) again) or waved it off as operator error I would have missed a valuable clue.
 
 ### Art or Science
-
 Debugging is about preparation and hard work, being guided by your instincts, but also knowing when you are looking in the wrong place and coming up with another plan.

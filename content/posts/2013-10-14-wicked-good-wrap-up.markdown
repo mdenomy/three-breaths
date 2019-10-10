@@ -3,7 +3,6 @@ author: mdenomy
 date: 2013-10-14 13:34:42+00:00
 draft: false
 title: Wicked Good Wrap Up
-type: post
 url: /2013/10/14/wicked-good-wrap-up/
 tags:
 - Conferences

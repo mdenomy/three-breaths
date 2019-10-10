@@ -3,7 +3,6 @@ author: mdenomy
 date: 2011-01-15 16:17:25+00:00
 draft: false
 title: Introduction to Test Driven Development at Nashua Scrum Club
-type: post
 url: /2011/01/15/introduction-to-test-driven-development-at-nashua-scrum-club/
 tags:
 - Agile

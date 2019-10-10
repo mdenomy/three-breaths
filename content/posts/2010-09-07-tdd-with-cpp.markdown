@@ -3,7 +3,6 @@ author: mdenomy
 date: 2010-09-07 00:41:15+00:00
 draft: false
 title: TDD with C++
-type: post
 url: /2010/09/06/tdd-with-cpp/
 tags:
 - mocks

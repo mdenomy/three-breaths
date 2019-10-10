@@ -3,7 +3,6 @@ author: mdenomy
 date: 2013-09-22 14:44:42+00:00
 draft: false
 title: SOLID Design Principles at Launch Academy
-type: post
 url: /2013/09/22/solid-design-principles-at-launch-academy/
 tags:
 - Agile
