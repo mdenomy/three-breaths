@@ -18,7 +18,7 @@ It was a ton of fun.  They are such an energetic and engaged group.  They had 
 
 The talk is available below, although due to some technical difficulties at the talk I had to re-record it, so I didn't get their questions or the wild applause at the end ;)
 
-[youtube=http://www.youtube.com/watch?v=hcmlzJLFRTc]
+{{< youtube hcmlzJLFRTc >}}
 
 Thank you Launchers for hosting me, and I look forward to seeing more of you in the Boston developer community.
 
@@ -39,5 +39,4 @@ James Shore - Art of Agile
 http://www.jamesshore.com/Agile-Book/incremental_design.html
 
 And lastly, here are the slides
-
-http://www.slideshare.net/mdenomy/design-principles-26429927
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/Gd6ioRGYjztWst" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/mdenomy/design-principles-26429927" title="Design Principles - Michael Denomy at Launch Academy" target="_blank">Design Principles - Michael Denomy at Launch Academy</a> </strong> from <strong><a href="//www.slideshare.net/mdenomy" target="_blank">Michael Denomy</a></strong> </div>

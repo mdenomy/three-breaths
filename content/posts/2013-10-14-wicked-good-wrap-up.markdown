@@ -26,7 +26,7 @@ First things first.  Thank you [Brian Cardarella](http://dockyard.com/), [Johnn
 
 Liana Leahy got us kicked off in song, reprising the role of Ruby Minstrel.  Liana has a great gift both vocally and satirically.  And if this Ruby thing doesn't work out for her, I'm sure she could pursue other avenues
 
-https://twitter.com/lleahy/status/389555084344188928
+{{< tweet 389555084344188928 >}}
 
 
 ## Opening Keynote

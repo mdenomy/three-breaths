@@ -19,7 +19,9 @@ Both Lean and Agile involve the customer and welcome customer feedback.  Both a
 Another concept that I think is key to the idea of the Lean Startup (or at least successful startups) is the [pivot](http://www.startuplessonslearned.com/2009/06/pivot-dont-jump-to-new-vision.html).  The idea behind a pivot is that there is a vision behind the product (there is a vision, right?).  As start-ups continue to develop the customer and get more feedback there will most likely come a time where what you are learning isn't in line with that initial vision.  Start-ups that are unable or unwilling to deviate from that initial vision are most likely doomed for failure.  Companies that can incorporate that feedback and change the vision have a chance to succeed.   [Eric Ries](http://www.startuplessonslearned.com/) describes the [pivot ](http://www.startuplessonslearned.com/2009/06/pivot-dont-jump-to-new-vision.html)as
 
 
-<blockquote>the idea that successful startups change directions but stay grounded in  what they've learned. They keep one foot in the past and place one foot  in a new possible future. Over time, this pivoting may lead them far  afield from their original vision, but if you look carefully, you'll be  able to detect common threads that link each iteration.</blockquote>
+<blockquote>
+the idea that successful startups change directions but stay grounded in  what they've learned. They keep one foot in the past and place one foot  in a new possible future. Over time, this pivoting may lead them far  afield from their original vision, but if you look carefully, you'll be  able to detect common threads that link each iteration.
+</blockquote>
 
 
 Keeping one foot in the past is critical, otherwise you make drastic jumps from one vision to the next, and risk losing what you have already learned about the customer.  There are a lot of interesting [examples of several successful pivots](http://www.danmartell.com/startups-its-ok-to-change-your-mind-product/) by companies like [Flickr](http://www.usatoday.com/tech/products/2006-02-27-flickr_x.htm), Paypal, and YouTube.

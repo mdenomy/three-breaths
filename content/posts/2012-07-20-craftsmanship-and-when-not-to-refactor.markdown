@@ -17,15 +17,12 @@ We have an awesome team room where I am working, with all kinds of [information 
 
 Here are what two of the cards remind us about our refactoring practices:
 
-
 <blockquote>Refactor all the time as you go.</blockquote>
 
 
 This encourages us to keep the code clean while we are developing in, remembering the "refactor" in the "[red-green-refactor](http://jamesshore.com/Blog/Red-Green-Refactor.html)" loop and avoiding the "red-green-red-green-red-green-refactor-refactor-refactor-refactor-refactor-refactor" anti-practice.
 
-
 <blockquote>If any code is slowing you down, change it (in small slices)</blockquote>
-
 
 This drives us to fix code that is making it difficult to maintain or extend the code.
 

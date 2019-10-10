@@ -12,13 +12,13 @@ tags:
 
 I had a nice visit the other day speaking at [Launch Academy](http://www.launchacademy.com/).  It's no secret that I am a big fan of the program.  As a community, we need to do more to produce good entry-level developers and also to help them develop their careers.
 
-https://twitter.com/launchacademy_/status/423940556046483456
+
+{{< tweet 423940556046483456 >}}
 
 My talk was geared towards preparing them for what happens when they leave Launch Academy and some of the things they can do to continue learning and growing as software developers.  The three topics: Aikido, Controller Tests, and LinkedIn don't seem to have anything to do with one another, but let's look a little closer.
 
 
 ## Aikido
-
 
 I don't know the first thing about aikido, but I do know of a [talk that Alistair Cockburn gave](http://www.infoq.com/presentations/cockburn-bury-not-praise-agile) where he talks about aikido and the three stage of learning: Shu, Ha, and Ri.  These stages of learning are common to almost any endeavor, including software engineering.  Right now, the students at Launch Academy are in the _**shu**_ phase, learning a single technique from their masters.
 
@@ -30,7 +30,6 @@ I highly recommend the [talk by Alistair Cockburn](http://www.infoq.com/presenta
 
 
 ## Controller Tests
-
 
 I have been thinking a lot lately about controller tests in Rails.  What value do they serve, are they still worth writing?  This is probably the subject of another blog post or series of posts, but in the talk I wanted to tie it in with the concept of shu-ha-ri and being open to new ideas.
 
@@ -50,10 +49,10 @@ The third phase of the talk took a bit of a left turn, but I think is an importa
 
 I am a big believer in REAL networking, i.e. talking to people, building relationships, asking questions, and following up.  I have made some awesome friends, mentors, and mentees in the Rails community.  It took me too long to learn how to effectively meet people and build relationships.  Fear and imposter syndrome are tough things to overcome.
 
-https://twitter.com/danidewitt/status/424292064319508480
+{{< tweet 424292064319508480 >}}
 
 I see a lot of people not networking effectively and it makes me sad.  We had a really good discussion about getting out and talking to people, sending follow up/thank you emails, and personalizing your LinkedIn invites so the person on the other end remembers you and is inclined to accept your invite.  A big key is following up, if you make a contact at a meetup, say hello at the next meetup, ask a question about something they told you about themselves, be genuine.
 
 As always, it was great to meet another Launch Academy cohort.  I hung around for quite a while and the Launchers had awesome questions.  Looking forward to seeing them out in the community soon.
 
-[slideshare id=30110988&style=border:1px solid #CCC;border-width:1px 1px 0;margin-bottom:5px&sc=no]
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/JaZ6aPBOS7dtNF?startSlide=2" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/mdenomy/shu-hari" title="Aikido, Controller Tests, and LinkedIn" target="_blank">Aikido, Controller Tests, and LinkedIn</a> </strong> from <strong><a href="//www.slideshare.net/mdenomy" target="_blank">Michael Denomy</a></strong> </div>

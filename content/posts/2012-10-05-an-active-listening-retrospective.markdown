@@ -17,15 +17,10 @@ Our team has a lot of Agile experience and we typically trade off the facilitato
 
 Some of the questions that were on my mind...
 
-
-
-	  * When we are pair-programming and our pair asks a question are we giving our full attention to what they are asking, or are we more focused on the problem that we are working on?
-	  * When someone raises an issue at the team standup, are we mentally preparing our rebuttal and not focusing on what is being said?
-
-
+* When we are pair-programming and our pair asks a question are we giving our full attention to what they are asking, or are we more focused on the problem that we are working on?
+* When someone raises an issue at the team standup, are we mentally preparing our rebuttal and not focusing on what is being said?
 
 ### Laying the Groundwork
-
 
 This style of retrospective needs to be held in a quiet place like a conference room, with enough room for team members to spread out in pairs without distracting one another.
 
@@ -33,7 +28,6 @@ At the start of the retrospective I reminded the team that we had all probably c
 
 
 ### The Mechanics
-
 
 I asked everyone to take a few minutes, in silence, to think about what happened in the last retrospective.  What went well, what could have been improved, what pleased them, what frustrated or challenged them, whatever came to mind from the iteration.
 
@@ -67,8 +61,6 @@ If you are new to retrospectives, I highly recommend [Esther Derby](http://www.
 
 If you are interested in mindfulness, I recommend that you check out the [Center for Mindfulness at the UMass Medical School](http://www.umassmed.edu/cfm/home/index.aspx) or take a look at these videos with Jon Kabat-Zinn, founder of the Center for Mindfulness, speaking at Google.
 
-
-
-	  * [Mindfulness with Jon Kabat-Zinn](http://www.youtube.com/watch?v=3nwwKbM_vJc) (full 72 minute talk)
-	  * [Jon Kabat-Zinn Stone Aged Mind in a Digital World](http://www.youtube.com/watch?v=bqQQDTjWz9U) (3 minute excerpt from the full talk)
+* [Mindfulness with Jon Kabat-Zinn](http://www.youtube.com/watch?v=3nwwKbM_vJc) (full 72 minute talk)
+* [Jon Kabat-Zinn Stone Aged Mind in a Digital World](http://www.youtube.com/watch?v=bqQQDTjWz9U) (3 minute excerpt from the full talk)
 

@@ -11,9 +11,7 @@ tags:
 
 The [Mass Technology Leadership Council](http://www.masstlc.org/) put on a round table discussion on best practices for small/mid sized biopharmas at Microsoft NERD on April 14.  The agenda is shown below
 
-
 <blockquote>As smaller biopharma companies grow and mature into larger organizations, they need to transition from relatively ad hoc, spreadsheet heavy, lightly supported R&D IT environments to more comprehensive, scalable platforms and support models. This presents substantial challenges to scientists, managers, and IT professionals, ranging from prioritization of new features and functions, creation of new workflows, budget and staffing issues, in-house platforms versus COTS (commercial-off-the-shelf) platforms, and getting support for necessary changes. Our expert panel will discuss these issues and more in this MA Technology Leadership Council Life Science Cluster roundtable discussion.</blockquote>
-
 
 The discussion covered a range of topics from virtualization of IT, data management, build vs. buy, and collaborating with scientists.
 

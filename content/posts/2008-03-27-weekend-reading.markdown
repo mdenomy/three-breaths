@@ -17,22 +17,24 @@ The Art of War is one of those books I like to pick up from time to time.  I am 
 I found an interesting passage in The Art of War that could be applied to the concept of Energized Work.
 
 
-<blockquote>_In War,
-Victory should be swift
-If victory is slow,
-Men tire, morale sags
-Sieges exhaust strength;
-Protracted campaigns
-Strain the public treasury.
-
-If men are tired,
-Morale low,
-Strength exhausted,
-Treasure Spent;
-Then the feudal lords
-Will exploit the disarray
-And attack.
-This even the wisest
-Will be powerless
-To mend.
-_</blockquote>
+<blockquote>
+In War,
+<br/>Victory should be swift
+<br/>If victory is slow,
+<br/>Men tire, morale sags
+<br/>Sieges exhaust strength;
+<br/>Protracted campaigns
+<br/>Strain the public treasury.
+<br/>
+<br/>If men are tired,
+<br/>Morale low,
+<br/>Strength exhausted,
+<br/>Treasure Spent;
+<br/>Then the feudal lords
+<br/>Will exploit the disarray
+<br/>And attack.
+<br/>
+<br/>This even the wisest
+<br/>Will be powerless
+<br/>To mend.
+</blockquote>

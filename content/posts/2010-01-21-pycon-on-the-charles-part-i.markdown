@@ -17,11 +17,9 @@ I have been doing some work with Python the last few months and recently joined 
 
 This meeting definitely met my [one good thing rule](http://mdenomy.wordpress.com/2009/12/10/one-good-thing/), in fact I thought all the presentations were interesting.  There were three presentations
 
-
-
-	  * Python for Large Astronomical Data Reduction and Analysis Systems by Francesco Pierfederici
-	  * Python's Dusty Corners by Jack Diederich
-	  * Tests and Testability by Ned Batchelder 
+* Python for Large Astronomical Data Reduction and Analysis Systems by Francesco Pierfederici
+* Python's Dusty Corners by Jack Diederich
+* Tests and Testability by Ned Batchelder 
 
 
 Francesco Pierfederici talked about how he uses Python in "Big Astronomy", particularly for the [LSST ](http://www.lsst.org/lsst)project.  The code base they are using has a [pipeline framework](http://lsstdev.ncsa.uiuc.edu/trac/wiki/PipelineFramework) that I am interested in looking at.  There is a lot of simulation that needs to be done before building a large telescope and the supporting computing infrastructure.  Most of the high level code is developed in Python, with the computation intensive code written in C.

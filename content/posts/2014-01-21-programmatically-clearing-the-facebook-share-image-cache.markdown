@@ -19,7 +19,7 @@ Fortunately, there is a way to clear the cache using the OpenGraph API by [forc
 
 **facebook_open_graph.rb**
 
-    
+``` ruby   
     module FacebookOpenGraph
       def self.clear_cache(url)
         params = {
@@ -37,9 +37,10 @@ Fortunately, there is a way to clear the cache using the OpenGraph API by [forc
         end
       end
     end
-
+```
 
 Then to clear the cache you merely need to call the clear_cache method, passing in the URL being shared.
 
-    
+``` ruby    
     FacebookOpenGraph.clear_cache("http://myurl.com/some_cool_page")
+```

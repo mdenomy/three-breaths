@@ -11,7 +11,7 @@ tags:
 - pair programming
 ---
 
-In my [last post](http://mdenomy.wordpress.com/2008/02/01/pair-programming/) I described some of my early impressions on my first pair programming experience.  Still no complaints, although a few additional observations.
+In my [last post](/2008/02/01/pair-programming/) I described some of my early impressions on my first pair programming experience.  Still no complaints, although a few additional observations.
 
 I am surprised at the end of the day to find that I am a little mentally drained and I think that is a good thing.  The effort that we are putting in is sustainable, but it is also very focused.  There is little down time since at any given moment at least one of us is "on" and good progress is being made.  Even when we are at a point where we are stuck the ideas are still flowing and we are both mentally engaged in the process.
 

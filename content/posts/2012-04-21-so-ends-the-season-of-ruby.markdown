@@ -11,7 +11,7 @@ tags:
 - Season of Ruby
 ---
 
-After a few false starts trying to get started with Ruby, I made a commitment [this year](http://mdenomy.wordpress.com/2011/12/23/i-hate-year-end-lists/) to dive in with both feet and really learn it.  I decided on the notion of a ["season"](http://mdenomy.wordpress.com/category/season-of-ruby/) to dedicate to getting started with Ruby, and I think my initial dive has come to an end.  When are you ever done learning about a language or a technology, probably never?  And I am no more done learning about Ruby than I am done learning about C#, Java, Python, Perl, Javascript, or any other language.  Well, maybe Perl (ha, ha, ha).
+After a few false starts trying to get started with Ruby, I made a commitment [this year](/2011/12/23/i-hate-year-end-lists/) to dive in with both feet and really learn it.  I decided on the notion of a ["season"](/tags/season-of-ruby/) to dedicate to getting started with Ruby, and I think my initial dive has come to an end.  When are you ever done learning about a language or a technology, probably never?  And I am no more done learning about Ruby than I am done learning about C#, Java, Python, Perl, Javascript, or any other language.  Well, maybe Perl (ha, ha, ha).
 
 So my introduction to Ruby and Ruby on Rails has not disappointed.  As expected, the community is vibrant and on the whole focused on real quality and craftsmanship.  There is no shortage of great resources out there to help a developer come up to speed on Ruby and Ruby on Rails.  And in that spirit, I wanted to take a snapshot on what I have learned, what resources I have found helpful, and where I might focus in the future.
 

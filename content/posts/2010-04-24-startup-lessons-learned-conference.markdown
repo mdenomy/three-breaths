@@ -21,7 +21,9 @@ This was my first time at a meetup of the[ Lean Startup Circle](http://www.meetu
 [Eric Ries](http://www.startuplessonslearned.com/) kicked things off with the keynote.  The takeaway for me here was the definition of a startup:
 
 
-<blockquote>A human institution creating a new product or service under conditions  of extreme uncertainty.</blockquote>
+<blockquote>
+A human institution creating a new product or service under conditions of extreme uncertainty.
+</blockquote>
 
 
 It has nothing to do with the size of a company, what industry it is in, how it is funded, etc.  We need to develop practices that are geared towards managing and responding to that uncertainty.  He talked a lot about the Build, Measure, Learn loop (which Kent Beck later turned around to the [Learn, Measure, Build](http://www.threeriversinstitute.org/blog/?p=483) loop), ways to fail fast, and knowing when it was time to pivot.  If you follow Eric's blog there was not much new here, but he was setting the table for the presentations and case studies that would follow.

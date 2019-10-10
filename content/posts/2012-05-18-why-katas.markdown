@@ -14,28 +14,23 @@ tags:
 The Merriam-Webster dictionary provides the following definition for [kata](http://www.merriam-webster.com/dictionary/kata)
 
 
-<blockquote>**Kata**
-
-a set combination of positions and movements (as in karate) performed as an exercise</blockquote>
-
+<blockquote>a set combination of positions and movements (as in karate) performed as an exercise</blockquote>
 
 Most people are probably familiar with katas as they are used in martial arts (come on, admit it, you liked the [Karate Kid](http://www.youtube.com/watch?v=H-I1hJl0ujI)).  My introduction to katas in software was through the [Software Craftsmanship](http://manifesto.softwarecraftsmanship.org/) movement, where they are often used as training exercises.
 
 It is important to understand with coding katas that the idea is not to do the exercises the same way every time.  Katas are a great way to experiment with different techniques and styles.
 
 
-
-	  * Can I provide more descriptive naming
-	  * Does a terse syntax make the code easier or harder to understand in a particular place.  Would a more verbose, explicit approach be better.  For example, in the case of a complex ternary operator, would an explicit structured if/else construct be better?  Worse?  Try them out and decide for yourself.
-	  * Experiment with different syntax, e.g. the unless keyword in Ruby.  More or less readable?
-	  * Should I use a defensive programming style checking for nil/null in several places or a more [confident](http://www.youtube.com/watch?v=T8J0j2xJFgQ) programming style?
-	  * How am I naming my tests (yes you should be writing tests as part of your katas)
+* Can I provide more descriptive naming
+* Does a terse syntax make the code easier or harder to understand in a particular place.  Would a more verbose, explicit approach be better.  For example, in the case of a complex ternary operator, would an explicit structured if/else construct be better?  Worse?  Try them out and decide for yourself.
+* Experiment with different syntax, e.g. the unless keyword in Ruby.  More or less readable?
+* Should I use a defensive programming style checking for nil/null in several places or a more [confident](http://www.youtube.com/watch?v=T8J0j2xJFgQ) programming style?
+* How am I naming my tests (yes you should be writing tests as part of your katas)
 
 There are no right or wrong answers to these questions, the goal is to experiment and try out new ideas.  Understand where an idea works well and where it doesn't work well.  Try a variety of approaches.  And the great thing about a kata, unlike your code base at your real job, is that you can blow it away when you are done and do it a little different the next time.
 
 
 ### **Katas and Interviews**
-
 
 I've been using pairing as a key part of the interview process for several years now, but a consistent challenge is to what to pair on.  It is unrealistic to assume that most developers are going to walk in the door and instantly grok your code base.  No matter how awesome you are or how descriptive the tests are, it's just not gonna happen. Instead pick a problem set that a candidate can quickly get their head around and that you can discuss different design and implementation choices.
 
@@ -49,7 +44,6 @@ And the really great thing about katas and pairing is that it can be challenging
 
 
 ### **Resources for Katas**
-
 
 [Cyber Dojo](http://jonjagger.blogspot.com/p/cyber-dojo_17.html)
 Great resource for ideas for simple exercises.  Even if you don't use the online collaboration tools, it has a great list of problems that can be used for a kata.  I used this yesterday for my leap year kata in Ruby

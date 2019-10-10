@@ -18,8 +18,8 @@ The kind of work that I do, [laboratory automation](http://www.helicosbio.com/Pr
 
 At some point the rubber needs to meet the road and you need to make sure that what you are doing with the hardware is really what is supposed to happen, i.e. did a motor move, was an image captured, did you really measure the temperature correctly.  I have found that the ease-of-use of modern testing frameworks like [MbUnit ](http://www.mbunit.com/) make writing a test a convenient way to perform this kind of hardware-software integration test.  As an example, consider a test that verifies that a motor moves correctly.  The test will read the position of the motor, move the motor in the forward direction, stop the motor, then read the position again and see if the motor has moved.
 
-[sourcecode language="cpp"]
-        [TestCategory("Motor Harware Tests")]
+``` cpp
+        [TestCategory("Motor Hardware Tests")]
         [TestMethod]
         public void TestMovingMotorForward()
         {
@@ -32,7 +32,7 @@ At some point the rubber needs to meet the road and you need to make sure that w
 
             Assert.AreEqual(moveMillimeters, endPosition - startPosition, allowedTolerance);
         }
-[/sourcecode]
+```
 
 Now this test is doing a lot of things and it certainly is not a unit test in the strictest definition.   I want to stress that before I ever get to this kind of test I have already written a lot of lower level unit tests with the hardware abstracted away.  In many cases the code has been written and unit-tested long before the hardware even gets in the door and gets wired up, so these types of tests are really more like system integration tests.
 

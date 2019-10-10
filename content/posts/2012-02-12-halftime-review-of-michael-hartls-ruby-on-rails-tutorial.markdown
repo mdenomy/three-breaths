@@ -13,35 +13,18 @@ tags:
 
 I am a newcomer to [Ruby](http://www.ruby-lang.org/en/) and [Ruby on Rails](http://rubyonrails.org/), so when I wanted to get started with Rails I looked around quite a bit for a good starting point.  I finally settled on [Michael Hartl's Ruby on Rails Tutorial](http://ruby.railstutorial.org/ruby-on-rails-tutorial-book).  I am about halfway through with the tutorial, and I am really pleased so far.  This is a great tutorial for a lot of reasons, but the aside from just teaching Rails, he is also teaching good development practices such as:
 
-
-
-	  * How to use [git](http://git-scm.com/) effectively.  The tutorial starts out with git basics and then quickly moves on to integration with [github](https://github.com/), working on branches when adding new features, and merging changes back into the master.
-	  * Focus on testing.  We start out with [RSpec](http://rspec.info/) writing unit tests, but then also add in integration tests.  He also follows a TDD approach for a lot of the tutorial where the tests come before the code, a practice that I believe strongly in.
-	  * Stresses good developer practices like running your tests before and after merging a branch.  Sure the merge probably went fine, but be a good citizen and test it before you push it up to github.
-	  * Refactoring your code to reduce duplication and make it more readable and maintainable.
-	  * Shows how to deploy your code up to [heroku](http://www.heroku.com/)
-	  * Introduces real world work practices like [sketches and wireframes](http://ruby.railstutorial.org/book/ruby-on-rails-tutorial#sec:structure).
-
-
+* How to use [git](http://git-scm.com/) effectively.  The tutorial starts out with git basics and then quickly moves on to integration with [github](https://github.com/), working on branches when adding new features, and merging changes back into the master.
+* Focus on testing.  We start out with [RSpec](http://rspec.info/) writing unit tests, but then also add in integration tests.  He also follows a TDD approach for a lot of the tutorial where the tests come before the code, a practice that I believe strongly in.
+* Stresses good developer practices like running your tests before and after merging a branch.  Sure the merge probably went fine, but be a good citizen and test it before you push it up to github.
+* Refactoring your code to reduce duplication and make it more readable and maintainable.
+* Shows how to deploy your code up to [heroku](http://www.heroku.com/)
+* Introduces real world work practices like [sketches and wireframes](http://ruby.railstutorial.org/book/ruby-on-rails-tutorial#sec:structure).
 
 The focus on testing, refactoring, and general good developer practices is important to me.  These are practices that I have been using for a long time, but it is great to see them so much a part of Ruby on Rails.  Just seeing that standard project hierarchy includes a place for tests tells you it is ingrained in Rails.  I really loved this quote from the tutorial
 
-
-
-
 <blockquote>
-
-> 
-> 
-
-> 
-> If you ask five Rails developers how to test any given piece of code, you’ll get about fifteen different answers—but they’ll all agree that you should definitely be writing tests
-> 
-> 
-
-
-> 
-> </blockquote>
+If you ask five Rails developers how to test any given piece of code, you’ll get about fifteen different answers—but they’ll all agree that you should definitely be writing tests
+</blockquote>
 
 
 As far as the Rails side of the tutorial goes, I think after my[ initial environment snafu](http://mdenomy.wordpress.com/2012/02/08/season-of-ruby-a-bad-day-fishing/) (that's all on me), things have been going great.  I am starting to see more of how Rails implements [MVC](http://ruby.railstutorial.org/chapters/a-demo-app#sec:mvc_in_action).  MVC is obviously not a new concept, it's been around for a [while](http://c2.com/cgi/wiki?ModelViewControllerHistory), but each framework and environment uses it differently.  I also really enjoy the ordered structure of a rails project and can see what an advantage it is to have this kind of common project structure.  I know ASP.NET MVC also tries to use a [standard project hierarchy](http://msdn.microsoft.com/en-us/library/dd410120.aspx), but rails felt a little cleaner and more intuitive.

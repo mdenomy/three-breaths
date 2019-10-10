@@ -13,4 +13,4 @@ I gave my first big crowd (to me anyway) talk at the [August Boston Ruby Meetup]
 
 I did a condensed version of the talk I gave back in June at the BostonMotion meetup, so if you want the Cliff Notes version of that talk, here it is.
 
-[youtube=http://www.youtube.com/watch?feature=player_embedded&v=DTvovgmIYoQ]
+{{< youtube DTvovgmIYoQ >}}

@@ -14,11 +14,15 @@ A good measure of how mature your Agile process is to ask "what is your team’s
 Recently our team had a story that was “done” and we took credit for the points in our iteration.  But a few days after the iteration ended there were a few more check-ins against the story.  Nobody was trying to hide anything, it was brought up at the daily stand-up, but were we really done at the end of the iteration?  No.  It reminded me of a great line from the movie _The Princess Bride_ where Miracle Max says
 
 
-<blockquote>He's only _mostly_ dead.  There's a big difference between mostly dead and all dead. Mostly dead is slightly alive. With all dead, well, with all dead there's usually only one thing you can do…Go through his clothes and look for loose change.</blockquote>
+<blockquote>
+He's only <em>mostly</em> dead. 
+<br/>
+There's a big difference between mostly dead and all dead. Mostly dead is slightly alive. 
+<br/>
+With all dead, well, with all dead there's usually only one thing you can do…Go through his clothes and look for loose change.
+</blockquote>
 
-
-[caption id="attachment_320" align="aligncenter" width="216" caption="Miracle Max - Early Agile Evangelist?"][![](http://mdenomy.files.wordpress.com/2011/08/miraclemax.jpg)
-](http://mdenomy.files.wordpress.com/2011/08/miraclemax.jpg)[/caption]
+{{< figure src="http://mdenomy.files.wordpress.com/2011/08/miraclemax.jpg" title="Miracle Max - Early Agile Evangelist?" >}}
 
 The Agile corollary to that is
 
