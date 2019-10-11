@@ -20,7 +20,7 @@ For those who are curious, this is how I went about porting my blog.
 
 ### Site Generation
 
-I just wanted a simply site for a blog, so a static site generator seemed to be the way to go. New tools and frameworks are always coming out, but the two primary tools I considered were [Hugo](https://gohugo.io/) and [Jeckyll](https://jekyllrb.com/). Both have a lot of traction in the community and both seemed easy to get started.
+I just wanted a simple site for a blog, so a static site generator seemed to be the way to go. New tools and frameworks are always coming out, but the two primary tools I considered were [Hugo](https://gohugo.io/) and [Jeckyll](https://jekyllrb.com/). Both have been around a while, have a lot of traction in the community, and both seemed easy to get started.
 
 I'm [Go](https://golang.org/)-curious, and though you don't need to know any Go to get up and running, I thought maybe using Hugo would be a bit of a gateway drug to Go. Also, though Jeckyll looks very feature-rich, Hugo struck me as a little leaner, with great [docs](https://gohugo.io/documentation/). So after trying out the Hugo [Quick Start](https://gohugo.io/getting-started/quick-start/), I decided to give it a go (no pun intended).
 
