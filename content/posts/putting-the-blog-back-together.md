@@ -8,13 +8,13 @@ Wow, has it really been 4 years since I've blogged? Well, I've got some good new
 
 <iframe src="https://giphy.com/embed/U6YiNxZEQjSoIGK8jj" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/U6YiNxZEQjSoIGK8jj"></a></p>
 
-I started my blog on <a href="https://wordpress.com/" target="_blank">Wordpress</a>. There's nothing wrong with Wordpress, really. It let me easily generate content, and at the time, my background in software was geared more toward automation, robotics, and medical device development. I was not a web developer. 
+I started my blog on <a href="https://wordpress.com/" target="_blank">Wordpress</a>. There's nothing wrong with Wordpress, really. It let me easily generate content, and, at the time, my background in software was geared more toward laboratory automation, robotics, and medical device development. I was not a web developer. 
 
 But I always felt a little...dirty, for lack of a better word, about having my blog on Wordpress. It seems like a software engineer should be a bit more intentional about the tools they use.
 
 Well after years of procrastinaton, I finally got around to moving my blog off of Wordpress. I hope this leads to a renewed interest in blogging, especially in some of the more managerial topics that excite me these days.
 
-For those who are curious, this is how I went about prting my blog.
+For those who are curious, this is how I went about porting my blog.
 
 ## Picking the Tools
 
