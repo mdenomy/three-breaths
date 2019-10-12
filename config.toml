@@ -9,7 +9,7 @@ pygmentscodefences = true
 pygmentscodefencesguesssyntax = true
 
 # Your Google analytics code.
-googleAnalytics = "UA-111476143-15"
+googleAnalytics = "UA-111476143-1"
 
 # Your Disqus sortname.
 disqusShortname = "3breaths-io"
