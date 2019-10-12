@@ -15,8 +15,7 @@ Learning is a funny thing, rarely does our knowledge progress in a smooth, linea
 
 Inspired by Jessica Hagy's great work at [Indexed](http://thisisindexed.com/) I came up with this diagram.
 
-[![](http://mdenomy.files.wordpress.com/2012/03/learning.png)
-](http://mdenomy.files.wordpress.com/2012/03/learning.png)
+{{< figure src="/images/learning.png">}}
 
 I experienced a brief, fleeting moment of Ruby hubris (Rubris?) a few weeks back and implied I was [starting to "get it"](/2012/03/02/rails-starting-to-click/), even invoking the good name of Ralph Kramden.  Well the Rails gods rightfully smited  me for my lack of a deep understanding of Rail's[ Active Record Associations](http://guides.rubyonrails.org/association_basics.html).
 

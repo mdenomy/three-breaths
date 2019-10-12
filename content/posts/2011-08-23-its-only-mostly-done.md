@@ -21,7 +21,7 @@ There's a big difference between mostly dead and all dead. Mostly dead is slight
 With all dead, well, with all dead there's usually only one thing you can do…Go through his clothes and look for loose change.
 </blockquote>
 
-{{< figure src="http://mdenomy.files.wordpress.com/2011/08/miraclemax.jpg" title="Miracle Max - Early Agile Evangelist?" >}}
+{{< figure src="/images/miraclemax.jpg" title="Miracle Max - Early Agile Evangelist?" >}}
 
 The Agile corollary to that is
 

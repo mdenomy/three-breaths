@@ -17,8 +17,7 @@ Facebook also provides a tool called the [Open Graph Object Debugger](https://de
 
 Sometimes, unfortunately, you get a dreaded "Critical Errors That Must Be Fixed - Error Linting URL" as shown below.
 
-[![UrlLinterCriticalError](http://mdenomy.files.wordpress.com/2014/01/urllintercriticalerror.png)
-](http://mdenomy.files.wordpress.com/2014/01/urllintercriticalerror.png)
+{{< figure src="/images/urllintercriticalerror.png" >}}
 
 Unfortunately, this doesn't tell you a lot about the cause of the error.  I was trying to have an image display using the [og:image tag](http://ogp.me/).  I had been able to successful share pages that had images that were in my Rails  asset directory, but this particular page used an image that was hosted on [Rackspace Cloud Files](http://www.rackspace.com/cloud/files/).
 

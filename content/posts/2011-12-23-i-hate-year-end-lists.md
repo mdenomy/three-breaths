@@ -22,7 +22,7 @@ One of the things that drives me crazy about this time of year, is the never-end
 
 **5. Get Out of My Comfort Zone** - Over the years I have developed a set of skills and practices that work well for me and that I have been successful with.  I wouldn't say it is easy, but it is a little safe.  I have experience with problem domains I work in, I am comfortable with the languages I use, and I have developed a set of practices that are well ingrained in me.  That's all well and good, but there is a potential for a lot of growth to be found outside your [comfort zone](http://thisisindexed.com/2010/11/stretching-is-good-stuff/).
 
-{{< figure src="http://mdenomy.files.wordpress.com/2011/12/card27451.jpg" >}}
+{{< figure src="/images/card27451.jpg" attr="https://thisisindexed.com/2010/11/stretching-is-good-stuff/" >}}
 
 **6. Buy a Mac** - Windows and Microsoft have been good to me, and I have used Windows for work for the past 20 years or so.  I will probably still do my day job work on a Windows machine, but in the spirit of learning new languages and getting out of my comfort zone, maybe it is time to see how life is from the other side.  I could do all these things on a Windows box, but it's time for a little change.  Plus I can hang out with the cool kids at developer events.
 

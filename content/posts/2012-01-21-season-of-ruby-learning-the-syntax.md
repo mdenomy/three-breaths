@@ -25,7 +25,7 @@ Things that I have found interesting or noteworthy about the most recent koans:
 I was a little confused about Ruby symbols at first.  How do they get "initialized", how do you use them, why don't they take an "=", what can you do with them once you've got them.  After some Googling, things were starting to take shape, but I was still not perfectly clear on them.  But wait....
 
 
-{{< figure src="http://mdenomy.files.wordpress.com/2012/01/dangermouseirb.jpg?w=450" title="Off to the REPL" >}}
+{{< figure src="/images/dangermouseirb.jpg" title="Off to the REPL" >}}
 
 _NB: I realize if [SOPA ](http://en.wikipedia.org/wiki/Stop_Online_Piracy_Act)were to pass as is I could go to jail for this [Dangermouse ](http://en.wikipedia.org/wiki/Danger_Mouse_(TV_series))cartoon, but it is such a hack job by me, maybe I should..._
 

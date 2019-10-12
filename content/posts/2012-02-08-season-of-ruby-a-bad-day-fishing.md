@@ -18,11 +18,7 @@ Then came the 2nd chapter...
 
 Someone once said "A bad day fishing is better than a good day at work".  Oh yeah, tell that to [Captain Quint](http://www.imdb.com/character/ch0175379/quotes), he looks like he is having a pretty bad day fishing.
 
-
-[![](http://mdenomy.files.wordpress.com/2012/02/quint.jpg?w=300)
-](http://mdenomy.files.wordpress.com/2012/02/quint.jpg)
-    A Bad Day Of Fishing
-
+{{< figure src="/images/quint.jpg" title="A Bad Day Of Fishing" >}}
 
 Now you could argue that he's actually just having a good day at work, since technically, as a fisherman, he is at work.  But I digress. Up to this point my Ruby experience has been all pie and ice cream, but today was a bad day of fishing with Ruby.
 

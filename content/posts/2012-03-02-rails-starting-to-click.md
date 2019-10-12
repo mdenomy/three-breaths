@@ -12,8 +12,7 @@ tags:
 
 The danger with doing any online tutorial, even one as good as the [Michael Hartl Rails Tutorial](http://ruby.railstutorial.org/ruby-on-rails-tutorial-book), is that if you aren't careful the only benefits you will have at the end is that your typing skills have improved and you have the marketable ability to cut-and-paste large snippets of code.  At some point you need to start driving the bus.  Today I felt like the [Ralph Kramden](http://en.wikipedia.org/wiki/The_Honeymooners#Ralph_Kramden) of Rails.
 
-[![](http://mdenomy.files.wordpress.com/2012/03/honeymooners2.jpg?w=300)
-](http://mdenomy.files.wordpress.com/2012/03/honeymooners2.jpg)
+{{< figure src="/images/honeymooners2.jpg">}}
 
 _Editor's Note: I am not actually old enough to have seen the Honeymooner's, I just remember in my college days the reruns were on at 11PM, just before Star Trek at midnight (also in reruns)._
 
