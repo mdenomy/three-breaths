@@ -19,7 +19,7 @@ Being able to give feedback as close to when you've observed a behavior means th
 ## The How
 
 ### The When
-First, how immediate is immediate. It probably isn't the best approach to interrupt an in progress discussion or meeting to give immediate feedback, and it almost certainly isn't the right approach in a group setting. There may be some exceptions, but let's stick to the simple case of simple positive and negative feedback. I like to provide "immediate" feedback as close to the event as possible, so what does that look like. That depends a bit on whether it is a positive or negative behavior you want to provide feedback on.
+First, how immediate is immediate. It probably isn't the best approach to interrupt an in progress discussion or meeting to give immediate feedback, and it almost certainly isn't the right approach in a group setting. There may be some exceptions, but let's stick to the simple case of simple positive and negative feedback. I like to provide "immediate" feedback as close to the event as possible, so what does that look like. That depends a bit on whether it is a positive or negative behavior you want to provide feedback on, but you should be following up as soon as possible, ideally the same day you observed it.
 
 ### The Good
 If it is positive feedback, sometimes a simple slack message, especially if you are remote/distributed is appropriate.
