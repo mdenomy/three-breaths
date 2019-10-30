@@ -1,7 +1,7 @@
 ---
 title: "Redefining My Relationship With No"
 date: 2019-10-30T116:35:57-04:00
-draft: true
+draft: false
 ---
 
 No is an incredibly powerful word. No is a word that every engineer needs to learn to use, especially as they move into more senior roles
@@ -38,7 +38,7 @@ I screwed up. Where did I screw up, you might ask?
 **I forgot to ask why.**
 
 ## What Did I Learn
-Like I said earlier, I had gotten lazy. This was a no-brainer, we didn't have time for it, and it had no business value IMO. Just saying no was a simple way to put out the fire and get the team moving in the right direction.
+Like I said earlier, I had gotten lazy. At first glance, this was a no-brainer, we didn't have time for it, and it had no business value, IMO. Just saying no was a simple way to put out the fire and get the team moving in the right direction again.
 
 There would have been nothing wrong with saying no, and no may have even been the right decision, but not in the absence of more info. Instead of just saying no, maybe I could have asked "can you tell me why you want to do that", instead of assuming I already knew.
 
@@ -48,8 +48,5 @@ I'll let you know how it goes
 
 
 ## Notes
-<label id="note1">In addition to the person who said "you can't spell Denomy without no", someone else kindly pointed out that you also can't spell it without **"O my"**.
-
-So I got that going for me, which is nice
-<image alt="I got that going for me, which is nices" src="/images/whichisnice.gif">
-<a href="https://giphy.com/gifs/reactiongifs-mrw-nice-akoqZXagYJkXe">via GIPHY</a>
+<label id="note1">**1** - In addition to the person who said "you can't spell Denomy without no", years later [someone else](https://twitter.com/mrdavidjcole) kindly pointed out that you also can't spell it without **"O my"**. So I got that going for me, which is nice
+{{< figure  alt="I got that going for me, which is nice" src="/images/whichisnice.gif" attr="via [GIPHY](https://giphy.com/gifs/reactiongifs-mrw-nice-akoqZXagYJkXe) ">}}
