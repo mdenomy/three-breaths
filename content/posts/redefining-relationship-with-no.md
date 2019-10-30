@@ -14,12 +14,12 @@ No doesn't have to be a negative word.
 
 I love "no". I had a manager once say *"You can't spell Denomy without no"<sup><a href="#note1">1</a></sup>*, and he meant that as a positive. By saying no to work that came in through side channels I was able to keep the team working on the things that we all agreed was the most important work. Saying no was my super-power.
 
-But I got lazy with my use of no. Let me tell you a story, we can call it "Snowglobe-gate"
+But I got lazy with my use of no. Let me tell you a story, we can call it "Snowglobe-gate".
 
 ## Snowglobe-gate
 Twas a day like any other, except it was in early winter, and while in a meeting where I was remote, I got a slack notice alerting me to a kerfuffle in one of my team channels. As soon as the meeting ended, I hopped over to the channel to see what was going on.
 
-Someone from outside the team had mad a request to add a feature to a part of our app (an app a long time ago in a galaxy far, far away) that would make it look like it was snowing, in celebration of the holiday season. The team was all over the place as to whether this was a good idea or a bad idea and how we could/should/would implement it. One person even commented 
+Someone from outside the team had mad a request to add a feature to a part of our app (an app a long time ago in a galaxy far, far away) that would make it look like it was snowing, in celebration of the holiday season. The team was all over the place as to whether this was a good idea or a bad idea and how we could/should/would implement it. One person even commented thusly.
 
 > I don't mind doing it, but I don't know what I'm gonna tell Mike when other stuff doesn't get done
 
@@ -27,7 +27,7 @@ As you can see, I've developed a bit of a reputation.
 
 We had a lot of stuff we were on the hook for, stuff that we had agreed was "the most important work". Now something had come in through a side door and the team was off script. I don't like working this way. I wanted to put out the fire and get the team back on to what we agreed on. I made a command decision and said we aren't doing it, we had other things we had to get done. It would have been a fun, mirthful thing to do, but we had more important stuff to do
 
-I felt like I did the right thing. I was wrong
+I felt like I did the right thing. I was wrong.
 
 Later that day, I followed up with the person originating the request, figuring a simple "Hey, I know that would have been a fun thing to do. Sorry we couldn't fit it in, maybe next year (cause it literally was a seasonal thing)". Their answer surprised me. 
 
@@ -44,7 +44,7 @@ There would have been nothing wrong with saying no, and no may have even been th
 
 I am trying really hard to be more curious and open to different ideas than my own. That can often run contrary to what has been a pretty useful skill around keeping teams on track. But those two goals aren't in opposition, it's just gonna take a bit more work.
 
-I'll let you know how it goes
+I'll let you know how it goes.
 
 
 ## Notes
