@@ -25,7 +25,7 @@ Someone from outside the team had made a request to add a visual element to a pa
 
 As you can see, I've developed a bit of a reputation.
 
-We had a lot of stuff we were already on the hook for, stuff that we had agreed was "the most important work to bedoing". Now something had come in through a side door and the team was off script. I don't like working this way. I wanted to put out the fire and get the team back on to what we agreed on. I made a command decision and said we weren't doing it, we had other things we had to get done,things that we had all agreed to. It would have been a fun, mirthful thing to do, but we had more important stuff to do.
+We had a lot of stuff we were already on the hook for, stuff that we had agreed was "the most important work to be doing". Now something had come in through a side door and the team was off script. I don't like working this way. I wanted to put out the fire and get the team back on to what we agreed on. I made a command decision and said we weren't doing it, we had other things we had to get done,things that we had all agreed to. It would have been a fun, mirthful thing to do, but we had more important stuff to do.
 
 I felt like I did the right thing. I was wrong.
 
