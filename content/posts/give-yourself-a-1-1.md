@@ -21,7 +21,7 @@ About a year ago, I was extolling the virtues of 1:1s to someone not even in the
 </blockquote>
 
 So I tried it out. I blocked off 45 minutes _on my calendar_ (if it is not on the calendar it doesn't get done). I felt a little weird about have a 1:1 with myself, so I marked it private, I didn't want people to think I sitting in my office having a Smeagol/Gollum argument with myself. 
-{{< youtube tcsd3DW9pPs >}}
+{{< youtube NB2CNr692RE >}}
 
 But there is no need to hide the fact that you are taking the time to do some self maintence, reflection, and course correction. It is now on my calendar, for all lurkers to see :)
 
