@@ -29,7 +29,7 @@ I tend to use the same techniques in my self 1:1 that I might use for any 1:1. S
 
 I had an interesting experience in my last self 1:1 (I really need a better name<sup><a href="#note1">1</a></sup>, pull requests welcome). I had set aside 45 minutes for myself, but after about 25 minutes I was pretty self-reflected out. I was ready to declare victory and move on. But as anyone who's had a 1:1 with me knows, we aren't going to finish early, we are going to find _something_ to talk about. So I really challenged myself to dig deeper, peeling back more layers of the onion, and the time was really well spent. Some of the best conversations in my 1:1's happen after we've talked about the obvious stuff, the stuff right in front of us. Then it is time to pull on some threads, ask more of those AWE (and what else) questions from [The Coaching Habit](https://boxofcrayons.com/the-coaching-habit-book/).
 
-So give yourself a weekly gift. Give yourself a regular 1:1. Whether you are a manager or not, it is a great opportunity to take a more active, mindful role in your own growth and well being.
+So give yourself a weekly gift. Give yourself a regular 1:1. Whether you are a manager or not, it is a great opportunity to take a more active, intentional role in your own growth and well being.
 
 <label id="note1">**Update** - In a moment of inspiration it came to me, these shall now be referred to as one-on-nones.
 
