@@ -53,8 +53,6 @@ I won't try to go over all the talks, though there were a few that I really like
 
 [Matt Aimonett](https://twitter.com/mattetti)i talked about "good" code and "bad" code.  I was psyched that I got a question in that got kicked around by Matt, [Sandy Metz](http://www.sandimetz.com/), and [Katrina Owen](http://kytrinyx.com/) in the round-table discussion.
 
-{{< tweet 389036651198283776 >}}
-
 I wish I had more than 140 characters to ask a fairly nuanced question about what is the right amount of testing for a Rails app.  Fortunately I got a chance to catch up with Matt just before the conference ended to explore some ideas.  I love how approachable people are in this community.
 
 ## Things to Consider
